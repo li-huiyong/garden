@@ -59,4 +59,4 @@ body {
 ```
 
 RESULT
-![Window lattice by css](/img/in-post/post-js-version/window-lattice-css.jpg)
+![Window lattice by css](/garden/img/in-post/post-js-version/window-lattice-css.jpg)
