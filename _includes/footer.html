@@ -68,16 +68,34 @@
                         </a>
                     </li>
                     {% endif %}
+                    {% if site.website_url %}
+                    <li>
+                        <a target="_blank" href="{{site.website_url }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-link" aria-hidden="true"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.email %}
+                    <li>
+                        <a target="_blank" href="{{ site.email }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
                 </ul>
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
-                    <br>
+                    <!--<br>
                     Theme by <a href="http://huangxuan.me">Hux</a> |
-                    <iframe
+                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="91px" height="20px"
                         src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true" >
-                    </iframe>
+                    </iframe> -->
                 </p>
             </div>
         </div>
