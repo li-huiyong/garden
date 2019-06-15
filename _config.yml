@@ -14,9 +14,11 @@ baseurl: "/garden"         # for example, '/blog' if your blog hosted on 'host/b
 RSS: false
 #weibo_username:     none
 #zhihu_username:     none
-github_username:    li-huiyong
 #twitter_username:  none
-facebook_username:  profile.php?id=100009647795584
+email: "mailto:rikeiyuu@gmail.com"
+facebook_username:  lihuiyong123
+github_username:    li-huiyong
+bilibili_url: "https://space.bilibili.com/399438306"
 website_url: "http://li-huiyong.github.io/"
 
 
