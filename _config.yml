@@ -1,8 +1,8 @@
 # Site settings
 title: Pilot Garden
-SEOTitle: 东方庭院 | Pilot Garden
+SEOTitle: 六柿庭园 | Pilot Garden
 header-img: img/home-bg.jpg
-email: lihuiyong123@gmail.com
+#email: xxx@gmail.com
 description: ""
 keyword: ""
 url: "http://li-huiyong.github.io/garden/"              # your host, for absolute URL
@@ -16,7 +16,7 @@ RSS: false
 #zhihu_username:     none
 github_username:    li-huiyong
 #twitter_username:  none
-facebook_username:  Huiyong LI
+facebook_username:  profile.php?id=100009647795584
 website_url: "http://li-huiyong.github.io/"
 
 
