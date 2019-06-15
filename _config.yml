@@ -70,7 +70,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Coding, cooking, and hiking with nature"
-sidebar-avatar: img/avatar-garden.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "http://li-huiyong.github.io/garden/img/avatar-garden.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
