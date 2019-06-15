@@ -150,6 +150,16 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+				
+                            {% if site.email %}
+                            <li>
+                                <a target="_blank" href="{{ site.email }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             {% if site.facebook_username %}
                             <li>
                                 <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -170,14 +180,23 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            {% if site.bilibili_url  %}
+                            <li>
+                                <a target="_blank" href="{{ site.bilibili_url  }}">
+                                  <span class="fa-stack fa-lg">
+                                    <i class="fa fa-bold" aria-hidden="true"></i>
+                                  </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             {% if site.website_url %}
-                              <li>
-                                    <a target="_blank" href="{{site.website_url }}">
-                                    <span class="fa-stack fa-lg">
-                                    <i class="fa fa-link" aria-hidden="true"></i>
-                                    </span>
-                                    </a>
-                              </li>
+                            <li>
+                                <a target="_blank" href="{{ site.website_url }}">
+                                  <span class="fa-stack fa-lg">
+                                    <i class="fa fa-home" aria-hidden="true"></i>
+                                  </span>
+                                </a>
+                            </li>
                             {% endif %}
                         </ul>
                     </div>
