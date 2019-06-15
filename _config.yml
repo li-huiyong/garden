@@ -1,6 +1,6 @@
 # Site settings
-title: Garden
-SEOTitle: 庭院 | Garden
+title: Pilot Garden
+SEOTitle: 东方庭院 | Pilot Garden
 header-img: img/home-bg.jpg
 email: lihuiyong123@gmail.com
 description: ""
@@ -12,8 +12,8 @@ baseurl: "/garden"         # for example, '/blog' if your blog hosted on 'host/b
 
 # SNS settings
 RSS: false
-weibo_username:     none
-zhihu_username:     none
+#weibo_username:     none
+#zhihu_username:     none
 github_username:    li-huiyong
 #twitter_username:  none
 facebook_username:  Huiyong LI
