@@ -1,8 +1,11 @@
-# Six Persimmon Garden 六柿庭院
+# Sixper Garden 六柿庭院
+Represent traditional beauty using modern technologies 
+Garden has flowers, grasses, trees, birds, butterflies, water, land, stones, sky, sunshine, sun, wind
+# Sixper Park 六柿公园
 Human-centerd：Note, Graph, Map
 Culture-rooted：Daoism，Buddhism, Confucianism, Shinto, Christianism
 # Concept
-Gardan has flowers, grasses, trees, birds, butterflies, water, land, stones, sky, sunshine, sun, wind
+Park has balls, brushes, instruments, chess, cards, stages, gallery, gyms
 Divide concepts into the front end gracefully
 # Future work
-Self perception, Awareness tour, Travel peer, Community gallery
+Self explored, Awareness tour, Travel peer, Community gallery
