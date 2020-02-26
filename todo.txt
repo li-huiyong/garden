@@ -1,0 +1,8 @@
+# Six Persimmon Garden 六柿庭院
+Human-centerd：Note, Graph, Map
+Culture-rooted：Daoism，Buddhism, Confucianism, Shinto, Christianism
+# Concept
+Gardan has flowers, grasses, trees, birds, butterflies, water, land, stones, sky, sunshine, sun, wind
+Divide concepts into the front end gracefully
+# Future work
+Self perception, Awareness tour, Travel peer, Community gallery
