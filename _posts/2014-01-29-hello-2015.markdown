@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome to pilot garden!"
+title:      "Welcome to sixper garden!"
 subtitle:   " \"Beautiful garden, enjoy life\""
 date:       2019-06-15
 author:     "Lihy"
@@ -14,7 +14,7 @@ tags:
 
 ## Hello
 
-Welcome to pilot garden!
+Welcome to sixper garden!
 
 It's an explorative garden to represent traditional beauty using modern technologies. More interesting topics will be introduced including the beauty of Nature, Design, Painting, Poem, Drama, Music, Dance, Handicraft.
 
