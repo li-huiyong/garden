@@ -1,6 +1,6 @@
 # Site settings
-title: Pilot Garden
-SEOTitle: 六柿庭园 | Pilot Garden
+title: Sixper Garden
+SEOTitle: 六柿庭园 | Sixper Garden
 header-img: img/home-bg.jpg
 #email: xxx@gmail.com
 description: ""
@@ -71,7 +71,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "One flower, one world, one leaf, one bodhi"
+sidebar-about-description: "One flower, one world. One leaf, one bodhi"
 sidebar-avatar: "http://li-huiyong.github.io/garden/img/avatar-garden.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
