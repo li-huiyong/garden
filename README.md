@@ -1,5 +1,5 @@
-# Pilot Garden
-Welcome to the [Pilot Garden](https://li-huiyong.github.io/garden/)! 
+# Sixper Garden
+Welcome to the [Sixper Garden](https://li-huiyong.github.io/garden/)! 
 
 ## Topics to talk about
 ### 
